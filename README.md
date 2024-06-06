@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **aneesomar.ao@gmail.com**
 - Grew up on Ubuntu
-- passionate about Spatial Data
+- Passionate about Spatial Data
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
