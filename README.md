@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anees</h1>
-<h3 align="center">A third year geomatics student at UCT</h3>
+<h3 align="center">A third year geomatics Computer Science student at UCT</h3>
 
 - 📫 How to reach me **aneesomar.ao@gmail.com**
+- Grew up on Ubuntu
+- passionate about Spatial Data
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
