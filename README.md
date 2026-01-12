@@ -1,5 +1,4 @@
 ## 💫 About Me:
-🔭 I’m currently working on a website to view restaurants in an area<br>⚡I am in my final year studying Geomatics and Computer Science at the university of cape town
 
 
 ## 🌐 Socials:
